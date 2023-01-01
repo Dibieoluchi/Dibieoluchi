@@ -11,6 +11,7 @@ A Data Enthusiast Proficient in Excel, Python and Powerbi:
 - 🤔 I’m looking for help with predictive Analysis
 - 📫 How to reach me: 
 -linkedin : https://www.linkedin.com/in/dibie-oluchi
+
 -gmail: oluchidibie@gmail.com
 - 😄 Pronouns: Her/She
 
