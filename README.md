@@ -1,6 +1,5 @@
 ### Hi there 👋
 I'm Dibie oluchi 
-<!-- 
 
 A Human Anatomist And Cell Biologist 
 Here are some ideas to get you started:
