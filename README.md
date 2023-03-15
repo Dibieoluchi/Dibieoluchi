@@ -7,7 +7,7 @@ A Data Enthusiast Proficient in Excel, Python and Powerbi:
 
  Numpy, Pandas, Matplotlib, Seaborn.
 - 🔭 I’m currently working on Public Health  Care projects 
-- 🌱 I’m currently learning Data Science,  Stastics with SAS ,  Data base And SQL with Python 
+- 🌱 I’m currently learning Data Science,  buisness analysis,  Data base And SQL with Python 
 - 👯 I’m looking to collaborate on Data Science and Medical Research Projects
 - 🤔 I’m looking for help with predictive Analysis
 - 📫 How to reach me: 
