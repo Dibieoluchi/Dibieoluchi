@@ -1,9 +1,10 @@
-# Oluchi Dibie's GitHub Profile
+#Oluchi Dibie's GitHub Profile
 
 #Overview
-Welcome to my GitHub profile! I am Olucchi Dibie, a dedicated and skilled Data Analyst with a passion for extracting meaningful insights from data. My expertise lies in leveraging a range of tools and technologies to analyze complex datasets, visualize trends, and provide actionable recommendations.
 
-#🔧 Skills and Expertise
+Welcome to my GitHub profile! I am Oluchi Dibie, a dedicated and skilled Data Analyst with a passion for extracting meaningful insights from data. My expertise lies in leveraging a range of tools and technologies to analyze complex datasets, visualize trends, and provide actionable recommendations.
+
+#Skills and Expertise
 Data Analysis: Proficient in quantitative and qualitative data analysis using Python, SQL, and Excel.
 
 Data Visualization: Skilled in data visualization with Power BI and Matplotlib, enhancing the storytelling aspect of data.
